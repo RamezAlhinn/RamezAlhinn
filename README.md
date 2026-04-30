@@ -1,18 +1,28 @@
-# Hey, I'm Ramez
+# 👋 Hey, I'm Ramez
 
-AI & Software Engineer. Master's student, working student at Magna Electronics.
+**AI & Software Engineer · Autonomous Systems · Builder**
 
-Building things that work — from AI agents to autonomous robots.
+Master's student · Working student at **Magna Electronics**
 
-## What I Do
+*Building things that work — from AI agents to autonomous robots.*
 
-AI agents, RAG, ROS2 robotics, embedded AI. Full-stack with Python, TypeScript, React.
+---
 
-## Projects
+## 🧠 What I Do
 
-- **AI-ThreatDetection** - LLM-powered security agent
-- **lightweight-ai-plugins** - Modular edge AI framework
-- **Autonomous-RC** - ROS2 autonomous vehicle
-- **Micronavigator** - Path planning for robots
+AI agents · RAG pipelines · ROS2 robotics · Full-stack development
 
-Currently exploring AI agents, automation, and systems that adapt to real-world constraints.
+## 📌 Projects
+
+- **AI-ThreatDetection** — LLM-powered security agent
+- **lightweight-ai-plugins** — Modular edge AI framework
+- **Autonomous-RC** — ROS2 autonomous vehicle
+- **Micronavigator** — Path planning for robots
+
+## ⚙️ Toolbox
+
+Python · TypeScript · C++ · React · FastAPI · ROS2 · Docker · PyTorch
+
+---
+
+*Exploring AI agents, automation, and adaptive systems.*
