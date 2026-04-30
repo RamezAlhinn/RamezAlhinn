@@ -1,53 +1,18 @@
-# 👋 Hey, I'm Ramez
+# Hey, I'm Ramez
 
-**AI & Software Engineer · Autonomous Systems · Builder**
+AI & Software Engineer. Master's student, working student at Magna Electronics.
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories&q=&type=&language=python)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/RamezAlhinn?tab=repositories)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
-[![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)](https://github.com/RamezAlhinn/Autonomous-RC)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
+Building things that work — from AI agents to autonomous robots.
 
-Master's student · Working student @ **Magna Electronics**
+## What I Do
 
-*Building things that work — from AI agents to autonomous robots.*
+AI agents, RAG, ROS2 robotics, embedded AI. Full-stack with Python, TypeScript, React.
 
----
+## Projects
 
-## 🧠 What I Do
+- **AI-ThreatDetection** - LLM-powered security agent
+- **lightweight-ai-plugins** - Modular edge AI framework
+- **Autonomous-RC** - ROS2 autonomous vehicle
+- **Micronavigator** - Path planning for robots
 
-I work across the full stack — from **LLM-powered agents and RAG systems** to **ROS2 robotics and embedded AI**. At Magna I wear two hats: project management and building automation/AI solutions. My side projects are where the experiments happen.
-
-**AI & LLMs**
-RAG pipelines · Semantic search · AI agents · Prompt engineering · Vector databases · On-premises LLM deployment
-
-**Software Engineering**
-Python · TypeScript · React · FastAPI · Clean architecture · Docker · CI/CD · API design
-
-**Autonomous Systems & Robotics**
-ROS2 · Path planning · Sensor integration · Control systems · Grid-based navigation
-
-**Data & ML**
-Demand forecasting · Anomaly detection · Resource-aware model selection · Feature engineering
-
-## 📌 Featured Projects
-
-| Project | Stack | What it does |
-|---------|-------|-------------|
-| **[AI-ThreatDetection](https://github.com/RamezAlhinn/AI-ThreatDetection)** | LLMs, Python, Web UI | LLM-powered security agent that analyzes logs and detects threats with explainable reasoning |
-| **[lightweight-ai-plugins](https://github.com/RamezAlhinn/lightweight-ai-plugins)** | Python, Edge AI | Modular edge AI framework that dynamically selects models based on system resources |
-| **[Autonomous-RC](https://github.com/RamezAlhinn/Autonomous-RC)** | ROS2, C++ | ROS2-based autonomous vehicle with bicycle steering model |
-| **[Micronavigator](https://github.com/RamezAlhinn/Micronavigator)** | Python, Path Planning | Potential field path planning for rectangular robots in grid environments |
-
-## ⚙️ Toolbox
-
-**Languages** — Python · TypeScript · C++ · SQL  
-**Frameworks** — React · FastAPI · ROS2 · Flask · PyTorch · TensorFlow  
-**Infrastructure** — Docker · Git · CI/CD · PostgreSQL · Vector DBs  
-**AI/ML** — LLMs · RAG · Semantic Search · Anomaly Detection · Demand Forecasting  
-
----
-
-*Currently exploring AI agents, automation workflows, and systems that adapt to real-world constraints.*
+Currently exploring AI agents, automation, and systems that adapt to real-world constraints.
