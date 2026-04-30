@@ -1,22 +1,18 @@
-<div align="center">
-
 # 👋 Hey, I'm Ramez
 
 **AI & Software Engineer · Autonomous Systems · Builder**
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)]()
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()
-[![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories&q=&type=&language=python)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://github.com/RamezAlhinn?tab=repositories)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
+[![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white)](https://github.com/RamezAlhinn/Autonomous-RC)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/RamezAlhinn?tab=repositories)
 
 Master's student · Working student @ **Magna Electronics**
 
 *Building things that work — from AI agents to autonomous robots.*
-
-</div>
 
 ---
 
@@ -54,8 +50,4 @@ Demand forecasting · Anomaly detection · Resource-aware model selection · Fea
 
 ---
 
-<div align="center">
-  
 *Currently exploring AI agents, automation workflows, and systems that adapt to real-world constraints.*
-
-</div>
